@@ -2,7 +2,7 @@
 // Estratégia: cache-first para os arquivos do app (funciona 100% offline depois
 // do primeiro carregamento), com atualização em segundo plano quando online.
 
-const CACHE_NAME = 'din-tracker-v13';
+const CACHE_NAME = 'din-tracker-v14';
 const CORE_ASSETS = [
   './din_ufrj_tracker_13.html',
   './manifest.json',
